@@ -10,7 +10,7 @@ A Python GUI Project :
 
 ## Screenshots of the Main Interface of the App :
 
-![Universal-Calculator-Main-Interface](https://user-images.githubusercontent.com/55224033/118658555-20898800-b80a-11eb-90fe-2360b871d2e2.png)
+<img src="https://user-images.githubusercontent.com/55224033/118658555-20898800-b80a-11eb-90fe-2360b871d2e2.png" alt="Universal-Calculator-Main-Interface" width="500" height="auto">
 
 ## Author :
 
